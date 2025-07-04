@@ -1,0 +1,15 @@
+2025-06-15 08:28:05 root         INFO     Starting PutRecord Producer
+2025-06-15 08:28:05 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-06-15 08:28:05 root         INFO     Produced record 49664269603759943476076950525116061179313025968282533922 to Shard shardId-000000000002
+2025-06-15 08:30:05 root         INFO     Starting PutRecord Producer
+2025-06-15 08:30:05 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-06-15 08:30:06 root         INFO     Produced record 49664269603782244221275481208209437218094757910260219954 to Shard shardId-000000000003
+2025-06-15 08:30:22 root         INFO     Starting PutRecord Producer
+2025-06-15 08:30:22 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-06-15 08:30:22 root         INFO     Produced record 49664269603759943476076950593097586793702477695383765026 to Shard shardId-000000000002
+2025-06-15 08:30:34 root         INFO     Starting PutRecord Producer
+2025-06-15 08:30:34 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-06-15 08:30:35 root         INFO     Produced record 49664269603782244221275481222549715290363491173489705010 to Shard shardId-000000000003
+2025-06-15 08:31:03 root         INFO     Starting PutRecord Producer
+2025-06-15 08:31:03 botocore.credentials INFO     Found credentials in shared credentials file: /home/coder/.aws/credentials
+2025-06-15 08:31:03 root         INFO     Produced record 49664269603782244221275481236138041502831925158771425330 to Shard shardId-000000000003
