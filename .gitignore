@@ -1,0 +1,4 @@
+# Ignore Python environment folders
+**/env/
+**/.terraform/
+**/.uncommitted/
