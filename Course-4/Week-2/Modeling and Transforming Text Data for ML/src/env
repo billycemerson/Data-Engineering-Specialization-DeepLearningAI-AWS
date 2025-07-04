@@ -1,0 +1,5 @@
+DBHOST=ec2-54-197-94-6.compute-1.amazonaws.com
+DBUSER = postgresuser
+DBPASSWORD = Admin_Pwrd987*
+DBPORT = 5432
+DBNAME = aws_reviews
