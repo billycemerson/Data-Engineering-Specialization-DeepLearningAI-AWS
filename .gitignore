@@ -1,5 +1,6 @@
 # Ignore Python environment folders
 **/env/
+env
 **/.terraform/
 **/.uncommitted/
 **/integration_tests/
