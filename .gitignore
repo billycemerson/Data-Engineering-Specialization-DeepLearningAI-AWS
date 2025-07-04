@@ -2,3 +2,4 @@
 **/env/
 **/.terraform/
 **/.uncommitted/
+**/integration_tests/
